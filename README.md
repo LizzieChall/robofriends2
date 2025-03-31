@@ -8,6 +8,12 @@ This project is a responsive web application built with React and Vite that allo
 - Search robots by name
 - See dynamic filtering of robots based on search input
 
+## Medical Theme Features
+- Robot avatars representing medical personnel
+- Medical-themed names for each robot
+- Healthcare-oriented email addresses
+- Professional medical staff representation
+
 ## Technologies Used
 - React
 - Vite
