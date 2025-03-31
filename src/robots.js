@@ -1,62 +1,63 @@
 export const robots = [
   {
     id: 1,
-    name: 'Leanne Graham',
-    username: 'Bret',
-    email: 'Sincere@april.biz'
+    name: 'NurseBot Florence',
+    username: 'FlorenceAI',
+    email: 'florence.ai@medihospital.org'
   },
   {
     id: 2,
-    name: 'Ervin Howell',
-    username: 'Antonette',
-    email: 'Shanna@melissa.tv'
+    name: 'CareAssist 2000',
+    username: 'CareTech',
+    email: 'caretech@hospitalnetwork.com'
   },
   {
     id: 3,
-    name: 'Clementine Bauch',
-    username: 'Samantha',
-    email: 'Nathan@yesenia.net'
+    name: 'RoboNurse Clara',
+    username: 'ClaraNurse',
+    email: 'claranurse@smartmed.net'
   },
   {
     id: 4,
-    name: 'Patricia Lebsack',
-    username: 'Karianne',
-    email: 'Julianne.OConner@kory.org'
+    name: 'AI MedAssist',
+    username: 'MedAssistAI',
+    email: 'medassist@digitalhealth.org'
   },
   {
     id: 5,
-    name: 'Chelsey Dietrich',
-    username: 'Kamren',
-    email: 'Lucio_Hettinger@annie.ca'
+    name: 'CyberHealth Companion',
+    username: 'CyberNurse',
+    email: 'cybernurse@medicbot.com'
   },
   {
     id: 6,
-    name: 'Mrs. Dennis Schulist',
-    username: 'Leopoldo_Corkery',
-    email: 'Karley_Dach@jasper.info'
+    name: 'NanoCare Assistant',
+    username: 'NanoCareAI',
+    email: 'nanocare@futuremed.net'
   },
   {
     id: 7,
-    name: 'Kurtis Weissnat',
-    username: 'Elwyn.Skiles',
-    email: 'Telly.Hoeger@billy.biz'
+    name: 'Guardian NurseBot',
+    username: 'GuardianRX',
+    email: 'guardianrx@pharmassist.ai'
   },
   {
     id: 8,
-    name: 'Nicholas Runolfsdottir V',
-    username: 'Maxime_Nienow',
-    email: 'Sherwood@rosamond.me'
+    name: 'Vitals Monitor Pro',
+    username: 'VitalsAI',
+    email: 'vitalsmonitor@medicassist.com'
   },
   {
     id: 9,
-    name: 'Glenna Reichert',
-    username: 'Delphine',
-    email: 'Chaim_McDermott@dana.io'
+    name: 'Rehab Support Unit',
+    username: 'RehabBot',
+    email: 'rehabbot@therapytech.org'
   },
   {
     id: 10,
-    name: 'Clementina DuBuque',
-    username: 'Moriah.Stanton',
-    email: 'Rey.Padberg@karina.biz'
+    name: 'Surgical Assistant X',
+    username: 'SurgiAI',
+    email: 'surgiai@hospitaltech.com'
   }
 ];
+

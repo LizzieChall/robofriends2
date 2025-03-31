@@ -2,11 +2,13 @@ import React, { Component } from 'react';
 import CardList from '../components/CardList';
 import SearchBox from '../components/SearchBox';
 import Scroll from '../components/Scroll';
+import { robots } from '../robots';
 import './App.css'; 
 
 
 class App extends Component {
   constructor() {
+    
     super()
     this.state = {
       robots: [],
@@ -15,9 +17,8 @@ class App extends Component {
   }
 
   componentDidMount() {
-    fetch('https://jsonplaceholder.typicode.com/users')
-      .then(response=> response.json())
-      .then(users => {this.setState({ robots: users})});
+    // Replace the fetch with local robots data
+    this.setState({ robots: robots });
   }
 
   onSearchChange = (event) => {
