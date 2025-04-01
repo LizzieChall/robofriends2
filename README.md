@@ -1,18 +1,21 @@
-RoboFriends2
+# RoboFriends2
+
 A React application that displays medical-themed robot cards with search functionality.
 
-Description
+## Description
 This project is a responsive web application built with React and Vite that allows users to:
+- View robot cards with medical-themed names and avatars
+- Search robots by name
+- See dynamic filtering of robots based on search input
 
-View robot cards with medical-themed names and avatars
-Search robots by name
-See dynamic filtering of robots based on search input
-Technologies Used
-React
-Vite
-Tachyons CSS
-GitHub Pages
-Installation
+## Technologies Used
+- React
+- Vite
+- Tachyons CSS
+- GitHub Pages
+
+## Installation
+```bash
 # Clone the repository
 git clone https://github.com/LizzieChall/robofriends2.git
 
@@ -24,5 +27,7 @@ npm install
 
 # Run development server
 npm run dev
-Deployment
+```
+
+## Deployment
 The project is deployed at: https://LizzieChall.github.io/robofriends2
