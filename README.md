@@ -1,9 +1,28 @@
-# robofriends
-Tutorial for React
-To run the project: 
+RoboFriends2
+A React application that displays medical-themed robot cards with search functionality.
 
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+Description
+This project is a responsive web application built with React and Vite that allows users to:
 
-*visist https://zerotomastery.io/ for more*
+View robot cards with medical-themed names and avatars
+Search robots by name
+See dynamic filtering of robots based on search input
+Technologies Used
+React
+Vite
+Tachyons CSS
+GitHub Pages
+Installation
+# Clone the repository
+git clone https://github.com/LizzieChall/robofriends2.git
+
+# Navigate to project directory
+cd robofriends2
+
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
+Deployment
+The project is deployed at: https://LizzieChall.github.io/robofriends2
